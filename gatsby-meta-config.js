@@ -3,7 +3,7 @@ module.exports = {
   description: `Blog posted about ...`,
   author: `[Erick Saavedra]`,
   introduction: `My purpose is to share interesting and relevant information about technology, science and programming.`,
-  siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
+  siteUrl: `https://blog.ericksaavedra.dev`, // Your blog site url
   social: {
     twitter: `ericksk_`, // Your Twitter account
     github: `erick-sk`, // Your GitHub account
@@ -15,16 +15,16 @@ module.exports = {
   keywords: [`blog`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
-    utterances: 'erick-sk/comments-blog-gatsby', // Your repository for archive comment
+    utterances: 'erick-sk/ericks-blog-gatsby', // Your repository for archive comment
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
   },
   sponsor: {
-    buyMeACoffeeId: 'jbee',
+    buyMeACoffeeId: 'ericksk',
   },
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
   },
-  ga: '0', // Add your google analytics tranking ID
+  ga: 'G-EG93GCJ81M', // Add your google analytics tranking ID
 }

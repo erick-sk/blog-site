@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-bee",
+  "name": "Ericks-blog",
   "private": true,
-  "description": "Gatsby blog starter template",
+  "description": "Blog post",
   "version": "0.1.0",
-  "author": "Jbee[JaeYeopHan]<ljyhanll@gmail.com>",
+  "author": "Erick Saavedra Herrera>",
   "bugs": {
     "url": "https://github.com/JaeYeopHan/gatsby-starter-bee/issues"
   },
