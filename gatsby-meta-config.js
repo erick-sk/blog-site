@@ -26,5 +26,5 @@ module.exports = {
   share: {
     facebookAppId: '838032643509661', // Add facebookAppId for using facebook share feature v3.2
   },
-  ga: 'G-EG93GCJ81M', // Add your google analytics tracking ID
+  ga: 'G-H5PYTT9F43', // Add your google analytics tracking ID
 }
