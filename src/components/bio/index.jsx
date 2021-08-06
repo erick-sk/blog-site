@@ -25,28 +25,52 @@ export const Bio = () => (
               <div className="author-name">
                 <span className="author-name-prefix">Written by!</span>
                 <Link to={'/about'} className="author-name-content">
-                  <span>@{author}</span>
+                  <span>{author}</span>
                 </Link>
                 <div className="author-introduction">{introduction}</div>
                 <p className="author-socials">
                   {social.github && (
-                    <a href={`https://github.com/${social.github}`}>GitHub</a>
+                    <a
+                      href={`https://github.com/${social.github}`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      GitHub
+                    </a>
                   )}
                   {social.medium && (
-                    <a href={`https://medium.com/${social.medium}`}>Medium</a>
+                    <a
+                      href={`https://medium.com/${social.medium}`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      Medium
+                    </a>
                   )}
                   {social.twitter && (
-                    <a href={`https://twitter.com/${social.twitter}`}>
+                    <a
+                      href={`https://twitter.com/${social.twitter}`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
                       Twitter
                     </a>
                   )}
                   {social.facebook && (
-                    <a href={`https://www.facebook.com/${social.facebook}`}>
+                    <a
+                      href={`https://www.facebook.com/${social.facebook}`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
                       Facebook
                     </a>
                   )}
                   {social.linkedin && (
-                    <a href={`https://www.linkedin.com/in/${social.linkedin}/`}>
+                    <a
+                      href={`https://www.linkedin.com/in/${social.linkedin}/`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
                       LinkedIn
                     </a>
                   )}
