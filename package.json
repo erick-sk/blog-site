@@ -1,12 +1,9 @@
 {
-  "name": "Ericks-blog",
+  "name": "blog-site",
   "private": true,
   "description": "Blog post",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "Erick Saavedra Herrera>",
-  "bugs": {
-    "url": "https://github.com/JaeYeopHan/gatsby-starter-bee/issues"
-  },
   "dependencies": {
     "gatsby": "^2.2.8",
     "gatsby-image": "^2.0.34",
@@ -66,7 +63,6 @@
     "recursive-readdir": "^2.2.2",
     "signale": "^1.3.0"
   },
-  "homepage": "https://github.com/JaeYeopHan/gatsby-starter-bee#readme",
   "keywords": [
     "gatsby"
   ],
@@ -74,7 +70,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JaeYeopHan/gatsby-starter-bee.git"
+    "url": ""
   },
   "scripts": {
     "post": "gatsby-post-gen",

@@ -14,8 +14,6 @@ Are you passionate about talking about technology? Write me! I'd love to chat wi
 
 Some of my skills and interests include: HTML, CSS, JavaScript, ReactJS, Ruby, Ruby on Rails, PostgreSQL and Git.
 
-But my dream is to build robots :D
-
-_Thank you for reading my resume. If you want to contact me, Please send me an email._
+_Thank you for reading my resume. If you want to contact me, Please send me an email to esvdrah@gmail.com._
 
 </div>
