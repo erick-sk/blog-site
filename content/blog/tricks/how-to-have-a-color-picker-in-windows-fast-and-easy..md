@@ -14,11 +14,11 @@ Now let's focus on a productivity tool called [Microsoft PowerToys](https://docs
 
 Here are some images:
 
-![color-picker](./color-picker.png)
+![color-picker](../img/blog-001-img-1.png)
 
 _(Selecting a random color.)_
 
-![color-picker-1](./color-picker-1.png)
+![color-picker-1](../img/blog-001-img-2.png)
 
 _(When selecting a color, this window shows the color code and its variants.)_
 
@@ -34,7 +34,7 @@ Now that we have seen the tool in action, let's see how to get it on our system.
 
 There are many ways to install Microsoft PowerToys. The easiest of all is to go to their repository on [GitHub](https://github.com/microsoft/PowerToys/releases), then download the **.exe** package and install it from that file.
 
-![color-picker-2](./color-picker-2.png)
+![color-picker-2](../img/blog-001-img-3.png)
 
 Direct link here: [PowerToysSetup-0.43-x64.exe](https://github.com/microsoft/PowerToys/releases/download/v0.43.0/PowerToysSetup-0.43.0-x64.exe)
 
@@ -42,7 +42,7 @@ Once installed, we proceed to run the program. And in configuration we choose to
 
 Then we focus on the feature **Color Picker**:
 
-![color-picker-3](./color-picker-3.png)
+![color-picker-3](../img/blog-001-img-4.png)
 _(Setup Windows PowerToys.)_
 
 As you can see, we can activate this feature with the key combination: **Win + Shift + C**.
